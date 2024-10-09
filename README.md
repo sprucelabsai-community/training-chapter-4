@@ -4,6 +4,6 @@
 
 https://github.com/user-attachments/assets/a8e1b2e0-37d3-475f-acaf-c154507ec05b
 
-## Chapter 3
+## Chapter 4
 
-This is the starting point for [Chapter 3](https://developer.spruce.bot/training/building-a-skill/your-family-values/) of the [Spruce Training](https://developer.spruce.bot/training/building-a-skill/).
+This is the starting point for [Chapter 4](https://developer.spruce.bot/training/building-a-skill/your-family-members/) of the [Spruce Training](https://developer.spruce.bot/training/building-a-skill/).
